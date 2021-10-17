@@ -1,0 +1,9 @@
+Google colab link to run the assignment:
+https://colab.research.google.com/drive/1_OVVkT2SUTxGDydYPwvbxLtWahC93Kyu#scrollTo=N1SyOReOkh9K&uniqifier=1
+Description: 
+This HW designs a Decision tree with various depth values. The tree was then trained and tested using 3 datasets;
+Education, Politician and small. 
+
+Here is an example of output of the above code:
+![image](https://drive.google.com/uc?export=view&id=1H0lUsXccaifRILfA_PS0YCWeyUvmM16m)
+![image](https://drive.google.com/uc?export=view&id=1YB_OrXoS_hE1y8U4uozV3YvnuBmFgThj)
