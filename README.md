@@ -1,5 +1,5 @@
 # 10601-Lectures-HWs
-This repo is for implementing CMU10601 course assignments.
+This repo is for implementing CMU10601 course assignments.                                                                                                                 
 Homework 1: Background Material (written / programming)                                                                                                                
 Homework 2: Decision Trees (written / programming)                                                                                                                
 Homework 3: KNN, Perceptron, Linear Regression (written)                                                                                                                
