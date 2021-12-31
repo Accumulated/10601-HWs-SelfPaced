@@ -1,4 +1,5 @@
-# 10601-Lectures-HWs
+# 10601-Lectures-HWs                                                                                                                                    
+https://www.cs.cmu.edu/~mgormley/courses/10601-s20/schedule.html
 This repo is for implementing CMU10601 course assignments.                                                                                                                 
 Homework 1: Background Material (written / programming)                                                                                                                
 Homework 2: Decision Trees (written / programming)                                                                                                                
