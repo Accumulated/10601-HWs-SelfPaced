@@ -4,12 +4,13 @@
 This repo is for implementing CMU10601 course assignments.                                                                                                                 
 https://www.cs.cmu.edu/~mgormley/courses/10601-s20/schedule.html    
 
-Homework 1: Background Material (written / programming)                                                                                                                
+Homework 1: Background Material (written / programming)
+
 Homework 2: Decision Trees (written / programming)                                                                                                                
 	- The project builds a binary classifier from scratch which uses 
-	Decision tree as its core for learning and inference. 
-	The algorithm uses mutual information as splitting criterion.
-
+ 	Decision tree as its core for learning and inference.
+  	The algorithm uses mutual information as splitting criterion.
+   
 Homework 3: KNN, Perceptron, Linear Regression (written)                                                                                                                
 Homework 4: Logistic Regression (written / programming)                                                                                                                - This project builds a sentiment analyzer capable of analyzing 
 	the overall sentiment polarity using 2 different feature 
