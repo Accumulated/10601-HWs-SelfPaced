@@ -11,11 +11,13 @@ Homework 2: Decision Trees (written / programming)
  	Decision tree as its core for learning and inference.
   	The algorithm uses mutual information as splitting criterion.
    
-Homework 3: KNN, Perceptron, Linear Regression (written)                                                                                                                
-Homework 4: Logistic Regression (written / programming)                                                                                                                - This project builds a sentiment analyzer capable of analyzing 
-	the overall sentiment polarity using 2 different feature 
-	extraction techniques.
+Homework 3: KNN, Perceptron, Linear Regression (written)
 
+Homework 4: Logistic Regression (written / programming)
+	- This project builds a sentiment analyzer capable of analyzing
+ 	the overall sentiment polarity using 2 different feature 
+  	extraction techniques.
+   
 Homework 5: Neural Networks (written / programming)                                                                                                                
 
 Homework 6: Generative Models (written)                                                                                                                
