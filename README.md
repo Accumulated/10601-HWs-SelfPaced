@@ -4,10 +4,10 @@
 This repo is for implementing CMU10601 course assignments.                                                                                                                 
 https://www.cs.cmu.edu/~mgormley/courses/10601-s20/schedule.html    
 
-Homework 1: Background Material (written / programming)
+Homework 1: Background Material (written / programming)<br />
 
-Homework 2: Decision Trees (written / programming)                                                                                                                
-	- The project builds a binary classifier from scratch which uses 
+Homework 2: Decision Trees (written / programming)<br />
+	- The project builds a binary classifier from scratch which uses<br />
  	Decision tree as its core for learning and inference.
   	The algorithm uses mutual information as splitting criterion.
    
